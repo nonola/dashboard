@@ -1,0 +1,15 @@
+{
+  "name": "dropee",
+  "version": "1.0.0",
+  "description": "Dropee Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no specific test\\\" && exit 1\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0"
+  }
+}
